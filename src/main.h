@@ -22,7 +22,7 @@ class CReserveKey;
 class CAddress;
 class CInv;
 class CNode;
-
+/** Test */
 struct CBlockIndexWorkComparator;
 
 /** The maximum allowed size for a serialized block, in bytes (network rule) */
