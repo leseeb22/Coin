@@ -6,8 +6,16 @@ http://www.litecoin.org
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
 
-What is Litecoin?
+What is workcoin?
 ----------------
+ is a infinite coin
+ 
+ - No limit total coin
+ - 1024 blocks to retarget difficulty
+ - 1 minute block targets
+ - subsidy halves in 100k blocks
+ - 
+
 
 Litecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
